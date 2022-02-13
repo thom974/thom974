@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 always looking to learn something new. 
 
-**-> current:**
+# **-> current:**
 
 full-stack development (Node, Express, React, PostgreSQL)
 

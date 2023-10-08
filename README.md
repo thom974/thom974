@@ -13,13 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-always looking to learn something new. 
-
-### **-> current:**
-
-full-stack development (Node, Express, React, PostgreSQL)
-
-creating interactive 3D web experiences (Three.js, GLSL)
-
-building desktop apps to share with friends (Electron.js)
+always looking to learn something new.
 
